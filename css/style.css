@@ -22,7 +22,7 @@ body a{
 	-ms-transition:0.5s all;
 }
 .logo {
-  width: 30%;
+  width: 100% !important; 
   margin: 0 auto;
   padding: 0 0 3em;
 }
