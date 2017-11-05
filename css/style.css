@@ -328,6 +328,16 @@ text-align:center;
   -webkit-appearance: none;
   font-family: 'Open Sans', sans-serif;
 }
+.news form textarea {
+  width: 100%;
+  color: #898888;
+  outline: none;
+  font-size: 1em;
+  padding: 1em;
+  border: 1px solid #28EDE6;
+  -webkit-appearance: none;
+  font-family: 'Open Sans', sans-serif;
+}
 .news form input[type="submit"] {
   background: #28EDE6;
   padding:1em;
